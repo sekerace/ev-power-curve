@@ -1,1 +1,8 @@
-{"type":"module"}
+{
+  "name": "ev-power-curve",
+  "version": "0.1.0",
+  "description": "Two-phase electric drivetrain model — launch torque, power-limited taper, drag equilibrium",
+  "type": "module",
+  "main": "power-curve.js",
+  "license": "MIT"
+}
